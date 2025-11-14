@@ -1,0 +1,6 @@
+{
+    "appId": "app.company.project",
+    "appName": "MyAppName",
+    "webDir": "../shared/dist",
+    "bundledWebRuntime": false
+}

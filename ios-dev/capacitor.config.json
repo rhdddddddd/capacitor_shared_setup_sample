@@ -1,0 +1,11 @@
+{
+    "appId": "app.company.projectDevelop",
+    "appName": "MyAppNameDevelop",
+    "webDir": "../shared/dist",
+    "bundledWebRuntime": false,
+    "ios":
+    {
+        "minVersion": "14.0",
+        "contentInsetBehavior": "automatic"
+    }
+}

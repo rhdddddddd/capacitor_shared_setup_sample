@@ -1,0 +1,7 @@
+{
+  "name": "shared",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}

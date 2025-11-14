@@ -1,0 +1,22 @@
+{
+  "name": "android-dev",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "7.4.4",
+    "@capacitor/app": "7.1.0",
+    "@capacitor/core": "7.4.4",
+    "@capacitor/haptics": "7.0.2",
+    "@capacitor/keyboard": "7.0.3",
+    "@capacitor/status-bar": "7.0.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "7.4.4"
+  },
+  "scripts": {
+    "sync": "cap sync android",
+    "copy": "cap copy android",
+    "open": "cap open android",
+    "ls": "cap ls",
+    "doctor": "cap doctor"
+  }
+}
